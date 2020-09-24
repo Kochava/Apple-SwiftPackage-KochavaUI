@@ -2,7 +2,7 @@
 //  KochavaUI.h
 //  KochavaUI
 //
-//  Created by John Bushnell on 6/12/20.
+//  Created by John Bushnell on 9/21/20.
 //  Copyright © 2020 Kochava, Inc.  All rights reserved.
 //
 

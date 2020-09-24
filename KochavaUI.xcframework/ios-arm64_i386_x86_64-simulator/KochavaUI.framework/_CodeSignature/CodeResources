@@ -6,27 +6,27 @@
 	<dict>
 		<key>Headers/KVAUIProduct.h</key>
 		<data>
-		0/zHExEATxLobcouneO+ZKkiSHM=
+		QN73WeVPxZRLbWMbyYJhjIpKp0Y=
 		</data>
 		<key>Headers/KochavaUI.h</key>
 		<data>
-		5+hQlcppWDQYr0kbC8m0EtKWvik=
+		vNJCITIBZZXX8TseRX1I5DIsgyk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		roGPtiHWjwAFSmgmvf65tvhm8m8=
+		Q/gk5d3hWwtal46k+pucIsXQnJo=
 		</data>
 		<key>KVABoolAdapterTableViewCell.nib</key>
 		<data>
-		ZbKdZPlJ4ObgnmCXznZe7/VH37Y=
+		BuOmUOnPHsDJS/+DyL5/Hg4+ykM=
 		</data>
 		<key>KVAImageTableViewCell.nib</key>
 		<data>
-		1x3cM4l0tGsMKb8E643Ci6awOYM=
+		jXCR6Zgk/PhiQk9Its47rWXr5BI=
 		</data>
 		<key>KVATextTableViewCell.nib</key>
 		<data>
-		ZcAkTJJdtIfctmbkP8e/ZyWb7j4=
+		OweGMNfLjLMexG7Ovy0rTLmYm3Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,55 +39,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0/zHExEATxLobcouneO+ZKkiSHM=
+			QN73WeVPxZRLbWMbyYJhjIpKp0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			o5Zfi3omYYqO5ePRhTrwERfMXSjfMaQuWApXMWaYj9o=
+			RELwS9tNWPjfKXnZu2n9XwYG0B+ETnWl6dA4ifchRWw=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5+hQlcppWDQYr0kbC8m0EtKWvik=
+			vNJCITIBZZXX8TseRX1I5DIsgyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LR9X27faRQfMzAmNn78g4hT6RYvnkvIPmWRd3j1WZSo=
+			w19BloiKCHWroxG+OBcbsOBg06btC9ZDNdkBqqqhqS0=
 			</data>
 		</dict>
 		<key>KVABoolAdapterTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZbKdZPlJ4ObgnmCXznZe7/VH37Y=
+			BuOmUOnPHsDJS/+DyL5/Hg4+ykM=
 			</data>
 			<key>hash2</key>
 			<data>
-			pwWHkk6jmF4oi4g/S+QrFhl8k74YJsn3No5+Eqi5I2g=
+			4zEjbkF9cV2HNfyTz3nC30WhnaFyX17EWm/W2TvP0wk=
 			</data>
 		</dict>
 		<key>KVAImageTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1x3cM4l0tGsMKb8E643Ci6awOYM=
+			jXCR6Zgk/PhiQk9Its47rWXr5BI=
 			</data>
 			<key>hash2</key>
 			<data>
-			AiZbrb5U16qnyj8RWhUV1QDi8vbkUqE5NoY7APgH00M=
+			0IhhYs6VQxTRWqhXli7sJt5tnQxqiQOkdnEH5ZNoubE=
 			</data>
 		</dict>
 		<key>KVATextTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZcAkTJJdtIfctmbkP8e/ZyWb7j4=
+			OweGMNfLjLMexG7Ovy0rTLmYm3Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			mkHDrhD4T9BuJyTPpr+loZ858RBqxQ3IhXWSYv2UkOE=
+			MnpE4FZuMrMnkpwdryXCYlKdqx1iTb+3Nf5Bw9cqL9o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

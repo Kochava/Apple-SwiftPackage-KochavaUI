@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/KVAUIProduct.h</key>
 		<data>
-		0/zHExEATxLobcouneO+ZKkiSHM=
+		QN73WeVPxZRLbWMbyYJhjIpKp0Y=
 		</data>
 		<key>Headers/KochavaUI.h</key>
 		<data>
-		5+hQlcppWDQYr0kbC8m0EtKWvik=
+		vNJCITIBZZXX8TseRX1I5DIsgyk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9kRaCxQJJzvV9rKt9PsGfJH/ZaY=
+		z1I1MnTdn5dg3U0goEmpkp1K3qk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -27,22 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0/zHExEATxLobcouneO+ZKkiSHM=
+			QN73WeVPxZRLbWMbyYJhjIpKp0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			o5Zfi3omYYqO5ePRhTrwERfMXSjfMaQuWApXMWaYj9o=
+			RELwS9tNWPjfKXnZu2n9XwYG0B+ETnWl6dA4ifchRWw=
 			</data>
 		</dict>
 		<key>Headers/KochavaUI.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5+hQlcppWDQYr0kbC8m0EtKWvik=
+			vNJCITIBZZXX8TseRX1I5DIsgyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			LR9X27faRQfMzAmNn78g4hT6RYvnkvIPmWRd3j1WZSo=
+			w19BloiKCHWroxG+OBcbsOBg06btC9ZDNdkBqqqhqS0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
