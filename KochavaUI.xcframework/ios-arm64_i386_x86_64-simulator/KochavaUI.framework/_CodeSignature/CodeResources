@@ -14,19 +14,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t6LsiqdpU3suzuSna+ZsWZzOk+U=
+		PVkv1+YP2ij4PbYOqVKjcCrD7TM=
 		</data>
 		<key>KVABoolAdapterTableViewCell.nib</key>
 		<data>
-		WWxjr3A/N+0cUYNNvO6kxH+cFGI=
+		ykZt3qClv+tcdi9x+ppfI2KzVZo=
 		</data>
 		<key>KVAImageTableViewCell.nib</key>
 		<data>
-		2q0dbSORtlQYBowmWVx7YWohxzs=
+		swD8U6XLwg6pUi9BikyuqibjKbE=
 		</data>
 		<key>KVATextTableViewCell.nib</key>
 		<data>
-		fhM2j69lNGFp3gvq+PeMvpmQuLg=
+		+dm+Kw5U6LLs8ZNEU27ckZFTKfs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,33 +61,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WWxjr3A/N+0cUYNNvO6kxH+cFGI=
+			ykZt3qClv+tcdi9x+ppfI2KzVZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			j8bvtiCSlNcE9ryHa4vOdQV1g3ndzaxg7DWWb442Lq0=
+			KIwr0c54oicC5FchNa7t6YVilja1AZkBGRlsncyGg5g=
 			</data>
 		</dict>
 		<key>KVAImageTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2q0dbSORtlQYBowmWVx7YWohxzs=
+			swD8U6XLwg6pUi9BikyuqibjKbE=
 			</data>
 			<key>hash2</key>
 			<data>
-			NTxuN1E4HlFJ19o8etvpIDyeb3+7xBkaLOOOEigsJMw=
+			bd4SYNkFCMcHxOY6oEYrOtCdGgOJ8lBX4d3GAzBF4Ig=
 			</data>
 		</dict>
 		<key>KVATextTableViewCell.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			fhM2j69lNGFp3gvq+PeMvpmQuLg=
+			+dm+Kw5U6LLs8ZNEU27ckZFTKfs=
 			</data>
 			<key>hash2</key>
 			<data>
-			zOr+6/C0asTHJH/IfWE4Y1tbZy8wJnkJxeCX3Ah/dQY=
+			rPHNVlSna0WnyRjVyT70h98QjIh1/2AhdSu8JSpMcHY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
