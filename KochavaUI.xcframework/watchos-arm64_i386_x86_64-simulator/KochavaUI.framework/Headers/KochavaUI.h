@@ -13,17 +13,28 @@
 
 
 
+#pragma mark - DEFINE
+
+
+
+#define KOCHAVA_FRAMEWORK
+
+
+
 #pragma mark - IMPORT
 
 
 
+#pragma mark System
 #import <Foundation/Foundation.h>
 #if TARGET_OS_TV
 #import <JavaScriptCore/JavaScriptCore.h>
 #endif
 
+#pragma mark KochavaCore
 #import <KochavaCore/KochavaCore.h>
 
+#pragma mark KochavaUI
 #import <KochavaUI/KVAUIProduct.h>
 
 
